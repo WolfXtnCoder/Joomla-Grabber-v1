@@ -1,9 +1,7 @@
 # Joomla-Grabber-v1
-
 +-+-+-+-+ +-+-+-+-+ +-+-+-+-+
 |J|O|O|M|L|A| |G|r|a|b|b|e|r|
 +-+-+-+-+ +-+-+-+-+ +-+-+-+-+
-
   >>>>>>>>> Salam Alaykom <<<<<<<<<<
  Tools Fallaga Team By Wolf XTN
  Joomla Grabber v1 Coded by Wolf XTN And AnisXTN
